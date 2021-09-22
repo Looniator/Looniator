@@ -2,7 +2,7 @@
 - 👀 I’m interested in security, home automation and automotive software
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on smart home systems
-- 📫 How to reach me ...
+- 📫 How to reach me: just send me an email to looniator(at)gmx.de
 
 <!---
 Looniator/Looniator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
